@@ -1,0 +1,28 @@
+.footer{
+  width: 100%;
+  max-width: 1024px;
+  font-size: 12px;
+  background-color: #f4f8fa;
+}
+.fLists{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+.fList{
+  list-style: none;
+  padding: 0;
+  background-color: #f4f8fa;
+}
+.fListItem{
+  /* color: #4a5568; */
+  margin-bottom: 10px;
+  background-color: #f4f8fa;
+}
+.footer .logo{
+  color: #ff3366;
+}
+.imgCheck{
+  display: flex;
+}

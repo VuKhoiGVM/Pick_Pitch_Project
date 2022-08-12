@@ -1,0 +1,109 @@
+.log-reg{
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.15752-9/294852166_554426126461884_1341153704857953313_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=qUUZkmhbcWQAX-paCDH&_nc_ht=scontent.fsgn2-2.fna&oh=03_AVIGkavT2vwhjA9aXM_I4J1j6cgLgTSA2Ig_PwUq5tnyMQ&oe=630B461E);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+}
+.form-box{
+  width: 380px;
+  height: 450px;
+  position: relative;
+  margin: 6% auto;
+  background: #fff;
+  padding: 5px;
+  overflow: hidden;
+  border-radius: 15px;
+}
+.button-box
+{
+  width: 245px;
+  margin: 35px auto;
+  position: relative;
+  box-shadow: 0 0 20px 9px #ff61241f;
+  border-radius: 30px;
+
+}
+.toggle-btn{
+  padding: 10px 30px;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+  outline: none;
+  position: relative;
+
+}
+#btn
+{
+  top:0;
+  left:0;
+  position: absolute;
+  width: 135px;
+  height: 100%;
+  background: #ff3366;
+  border-radius: 30px;
+  transition: 0.5s;
+}
+.social-icons{
+  margin: 30px auto;
+  text-align: center;
+}
+.btn-icon{
+  background: #ff3366;
+  border: none;
+  outline: none;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  transition: 0.5s;
+  margin: 0 12px;
+  box-shadow: 0 0 20px 9px #7f7f7f3d;
+  cursor: pointer;
+}
+.btn-icon:hover{
+  opacity: 0.6;
+}
+.iconLog{
+  color: #fff;
+}
+.input-group{
+  top: 180px;
+  position: absolute;
+  width: 280px;
+  transition: .5s;
+
+}
+.input-field{
+  width: 100%;
+  padding: 10px 0;
+  margin: 5px 0;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  border-bottom: 1px solid #999;
+  outline: none;
+  background: transparent;
+}
+.submit-btn
+{
+  width: 85%;
+  padding: 10px 30px;
+  cursor: pointer;
+  display: block;
+  margin:  8px auto;
+  background: #ff3366;
+  border: 0;
+  outline: none;
+  border-radius: 30px;
+}
+.submit-btn:hover{
+  opacity: 0.8;
+}
+#login{
+  left: 50px;
+}
+#register{
+  left: 450px;
+}

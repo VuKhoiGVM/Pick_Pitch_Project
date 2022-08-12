@@ -1,0 +1,16 @@
+server:
+npm install yarn
+yarn add nodemon
+
+run: yarn start hoặc npm start
+
+chạy trên server:
+http://localhost:8800/api/hotels
+
+client
+yarn add react 
+
+run: yarn start
+
+chạy trên gg 
+http://localhost:3000/ 

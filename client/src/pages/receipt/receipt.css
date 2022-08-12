@@ -1,0 +1,89 @@
+.Content{
+    background-color: #fff;
+    padding: 15px;
+}
+.Content .ContentItem{
+    width: 1156px;
+    height: 144px;
+    background-color: #fff;
+    margin: 0 auto;
+    border-radius: 8px;
+    border: 1px solid lightgray;
+    margin-top: 20px;
+    padding: 12px 16px;
+}
+.code{
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(228, 215, 215, 0.964);
+}
+.infoAll{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.donHang{
+    display: flex;
+    width: 176%;
+}
+.imgDon{
+    padding-top: 10px;
+}
+.imgg{
+    width: 136px;
+    height: 102px;
+    border-radius: 8px;
+}
+.infoDon{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.titleDon{
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #1A202C;
+}
+.namePhong{
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: #1A202C;
+    padding-top: 5px;
+}
+.soNguoi{
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #1A202C;
+    padding-top: 5px;
+}
+.ngayNhan{
+    font-size: 1.4rem;
+    font-weight: 500;
+    padding-top: 10px;
+    color: #1A202C;
+}
+.ngayTra  {
+    font-size: 1.4rem;
+    font-weight: 500;
+    padding-top: 10px;
+    color: #1A202C;
+}
+.giaPhong{
+    font-size: 1.6rem;
+    text-align: right;
+    font-weight: 500;
+    color: #1A202C;
+    padding-top: 10px;
+}
+.xacNhan>button{
+    background-color: #ed8936;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    font-weight: 600;
+    padding: 5px 10px;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+.xacNhan{
+    padding-top: 40px;
+}
